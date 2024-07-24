@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f7f0577.css",
+    "main.js": "/static/js/main.8a345f59.js",
+    "static/media/2148419169.jpg": "/static/media/2148419169.a3acdf454f8b1864421e.jpg",
+    "static/media/2149402395.jpg": "/static/media/2149402395.554c6bcea1940fc36ca3.jpg",
+    "static/media/2148254148.jpg": "/static/media/2148254148.b4b36eaa2b03ece15c57.jpg",
+    "static/media/repairman-uses-magnifier-tweezers-repair-damaged-smartphone-close-up-photo-disassembled-smartphone.jpg": "/static/media/repairman-uses-magnifier-tweezers-repair-damaged-smartphone-close-up-photo-disassembled-smartphone.da9569c1b592e6aca311.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/Jura-SemiBold.ttf": "/static/media/Jura-SemiBold.6500fd36afa129e3c4ab.ttf",
+    "static/media/RobotoCondensed-Light.ttf": "/static/media/RobotoCondensed-Light.43aa3135f2d0207e6473.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.b8cc747a58ffa52b7ff9.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.c7ab78a511011d4e147e.ttf",
+    "static/media/klipartz.com (1).png": "/static/media/klipartz.com (1).7c4c26f7c5db0b147cef.png",
+    "static/media/power-cable_11153127.png": "/static/media/power-cable_11153127.a1fbeb6cc8f09579d837.png",
+    "static/media/smartphone_8062749.png": "/static/media/smartphone_8062749.6ba46455e3c8a20f311c.png",
+    "static/media/battery-status_13458665.png": "/static/media/battery-status_13458665.f0eeab99e69894ce3fba.png",
+    "static/media/connecting_7849637.png": "/static/media/connecting_7849637.cb3ef228ed03ed2087b8.png",
+    "index.html": "/index.html",
+    "static/media/211800_play_icon.svg": "/static/media/211800_play_icon.e082b82f28ee7212f97c7282018f5e10.svg",
+    "main.4f7f0577.css.map": "/static/css/main.4f7f0577.css.map",
+    "main.8a345f59.js.map": "/static/js/main.8a345f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f7f0577.css",
+    "static/js/main.8a345f59.js"
+  ]
+}
